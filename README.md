@@ -1,4 +1,4 @@
-<h1> Tindev - O Tinder para Devs - 8a Semana Omnnistack da Rocketseat. </h1>
+<h1> Tindev - O Tinder para Devs - 8a Semana Omnistack da Rocketseat. </h1>
 
 
 <h3>Linguagens utilizadas: </h3>
