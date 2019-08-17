@@ -30,7 +30,7 @@ export default function Main({ navigation }) {
   }, [id]);
 
   useEffect(() => {
-    const socket = io('http://localhost:3333', {
+    const socket = io('http://rodrigofflima-com.umbler.net', {
       query: { user: id }
     });
 
